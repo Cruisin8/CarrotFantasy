@@ -1,0 +1,4 @@
+repository "Carrot Fantasy@qingcha001@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
